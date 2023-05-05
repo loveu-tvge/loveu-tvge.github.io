@@ -10,6 +10,7 @@ body {
 	color: #000;
 	background-color: #fff;
 	line-height: 1.5em;
+	overflow: hidden;
 }
 
 p a, table.affiliations a, table.menu a {
